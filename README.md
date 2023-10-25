@@ -1,4 +1,4 @@
-# E-Commerce App
+# (PUDDLE) E-Commerce Django Website
 
 Welcome to the Puddle E-Commerce website, built using python django. Your one-stop shop for buying and selling a wide range of items including clothes, toys, furniture, home decors, and more. Whether you're a shopper looking for the perfect item or a seller wanting to list products.
 
